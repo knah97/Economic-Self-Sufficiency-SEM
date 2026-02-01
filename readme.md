@@ -16,8 +16,7 @@ The analysis is based on the Cupesse dataset (N = 4,829).
 * **Cross-National Validity:** The factor structure proved to be invariant across Germany and the UK (Metric Invariance supported).
 
 ## Visualization
-![SEM Path Diagram](output/final_sem_horizontal_v3)
-*(記得確認這裡的圖片路徑是否正確)*
+![SEM Path Diagram](output/final_sem_horizontal_v3.png)
 
 ## How to Run
 1. Open `scripts/analysis.R` in RStudio.
